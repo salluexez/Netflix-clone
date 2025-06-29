@@ -11,7 +11,8 @@ This is a responsive **Netflix homepage clone** built using **HTML and CSS only*
 - ![Netflix UI](./assets/screenshots/screenshot_03.png)
 
 ## 🚀 Live Demo
-- coming soon......
+
+- Link 🌐 -> https://salluexez.github.io/Netflix-clone/
 
 ## ✨ Features
 
