@@ -4,7 +4,11 @@ This is a responsive **Netflix homepage clone** built using **HTML and CSS only*
 
 ## 📸 Screenshot
 
-> (Add screenshot here if available)
+- ![Netflix UI](./assets/screenshots/screenshot_01.png)
+
+- ![Netflix UI](./assets/screenshots/screenshot_02.png)
+
+- ![Netflix UI](./assets/screenshots/screenshot_03.png)
 
 ## 🚀 Live Demo
 - coming soon......
